@@ -3,8 +3,8 @@ function nomeIdade(nome, idade) {
 }
 nomeIdade("kamille",18);
 
-console.log(nomeIdade(40,"Gabriel"))
-console.log(nomeIdade('Gabriel',40))
+console.log(nomeIdade(18,"Kamille"))
+console.log(nomeIdade('Kamille',18))
 
 
 function soma(numero1, numero2){
